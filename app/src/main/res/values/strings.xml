@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SingleScreen</string>
+    <string name="company_name">Company Name</string>
+    <string name="email">Email:xyz@gmail.com</string>
+    <string name="number">No:+9654546338</string>
+    <string name="logo">Logo</string>
+</resources>
